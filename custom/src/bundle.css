@@ -9,9 +9,9 @@
 @import "_buttons.css";
 
 :root {
-  --colour-primary: #159957;
-  --colour-left: #71b280;
-  --colour-right: #134e5e;
+  --colour-primary: #7b4328;
+  --colour-left: #726962;
+  --colour-right: #00547c;
 }
 
 /* custom/src/bundle.css
