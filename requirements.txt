@@ -26,18 +26,16 @@ ordered-set==4.1.0
     # via pelican
 pelican==4.11.0
     # via
-    #   2024-09-18-pybelfast-workshop (pyproject.toml)
+    #   blog (pyproject.toml)
     #   pelican-yaml-metadata
 pelican-yaml-metadata==2.1.2
-    # via 2024-09-18-pybelfast-workshop (pyproject.toml)
+    # via blog (pyproject.toml)
 pygments==2.18.0
     # via
     #   pelican
     #   rich
 python-dateutil==2.9.0.post0
     # via pelican
-pytz==2025.2
-    # via feedgenerator
 pyyaml==6.0.3
     # via pelican-yaml-metadata
 rich==14.2.0

@@ -1,5 +1,5 @@
 AUTHOR = "Keith Maxwell"
-SITENAME = "2024-09-18-pybelfast-workshop"
+SITENAME = "Keith Maxwell’s Blog"
 SITEURL = ""
 THEME = "./custom"
 SUMMARY_MAX_LENGTH = 0
